@@ -1,0 +1,24 @@
+
+
+(D)
+	title = LKH Landeskrankenhaus Graz
+	tags = medicin, Help, clinic
+	description = The main hospital of the distinc styria in Austria.
+	Opening hours: 0-24h
+	
+	phone:	+43 316 385-0
+	email: internet@klinikum-graz.at
+	http://www.klinikum-graz.at
+	
+	
+(E) 
+	title = LKH Landeskrankenhaus Graz
+	tags = Medizin, Hilfe, Ambulanz, Clinic
+	description = Das größte Krankenhaus in der Steiermark, Österreich.
+	Opening hours: 0-24h
+	
+	phone:	+43 316 385-0
+	email: internet@klinikum-graz.at
+	http://www.klinikum-graz.at
+	
+image from LKH Homepage http://www.klinikum-graz.at

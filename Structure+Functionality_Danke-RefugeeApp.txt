@@ -1,0 +1,33 @@
+for implementation of the "DANKE - RefugeeApp":
+
+BASIC-Functionality:
+====================
+
+present Two-Level STRUCTURED info
+	categories / subcategories
+
+every info-unit holds:
+	title
+	tags
+	description in plain text
+		or optional: markup (links, images, ...)
+	contact(s)
+		links, email, 
+		address
+		GPS location (for routing)
+		images
+	imgage(s)
+	download(pdf)
+	see also:...
+	
+FAQs
+	
+	
+Angebot checken: 
+	ich suche folgende Güter: Stofftiere, Fußballschuhe, ...
+	ich suche folgende Dienstleistung: Deutschkurs, ...
+
+Further Ideas:
+===============
+Search-Assistent
+	step-by-step

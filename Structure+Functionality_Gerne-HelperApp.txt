@@ -1,0 +1,48 @@
+for implementation of the "GERNE - HelperApp":
+
+BASIC-Functionality:
+====================
+
+
+	
+present Two-Level STRUCTURED info
+	categories / subcategories
+
+every info-unit holds:
+	title
+	tags
+	description in plain text
+		or optional: markup (links, images, ...)
+	contact(s)
+		links, email, 
+		address
+		GPS location (for routing)
+		images
+	imgage(s)
+	download(pdf)
+	see also:
+	
+
+FAQs
+	
+Ich biete:
+	Angebot an Gütern (wo, wieviel, Beschreibung): z.B.: Kindernahrung, Mitfahrgelegenheit
+	Angebot an Dienstleistungn (wo, wer, Kontaktmöglichkeit): z.B.: Deutschkurs
+
+	
+"Termine" von privaten Initiativen =  What's going on?
+	who organises at the moment what: 
+	
+	dazu Human-Resources - Mitfahrer/Autos/Logistik
+		Teilnehmerlisten der HelferInnen bei "Events" / Aktivitäten
+		
+"Bedarfslisten":  Where (at which place/organisation) we need what?
+	z.B.: Deutschunterricht benötigt gerade / bietet gerade
+	
+	
+	
+Further Ideas:
+===============
+Translation - Service
+Search-Assistent
+	step-by-step
