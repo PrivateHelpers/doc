@@ -1,0 +1,11 @@
+
+
+(D)
+
+	
+(E) 
+	title = Are you Syrious?
+	tags = communication, syria
+	description = Current news from the migration routes.
+	https://www.facebook.com/areyousyrious/
+	
