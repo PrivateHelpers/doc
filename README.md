@@ -35,13 +35,13 @@ A friendly name for two apps and the backend:
 
 * **DANKE**: *Danke* für die Zeit! *Danke* für das Geschenk! *Danke* für den Tipp!
 * **GERNE**: *Gerne* helfe ich mit! *Gerne* unterstüzte ich Menschen in Not! *Gerne* überlasse jemandem ich Nützliches und Nötiges. 
-* **BITTESCHÖN**: Hier sind die infos *bitte schön*!
+* **BITTESEHR**: Hier sind die infos *bitte schön*!
 
 	We came up with the names after short brainstorming for a *german*, *unique* word without umlauts, easy to remember, easy to find in stores and not hold by any company. Suggestions better names for the final deployed apps in the stores are welcome!
 
 Features (Basic):
 
-* BitteSchön Backend 
+* BitteSehr Backend 
 	* API to Add or modify information/data (including translations to several languages)
 * Gerne HelpersApp
 	* Update information and metadata (tags and categories for structure)
@@ -60,7 +60,7 @@ Features (Basic):
 	
 Features (Advanced):
 
-* BitteSchön Backend 
+* BitteSehr Backend 
 	* manage push notifications for updates and/or news 
 * Gerne HelpersApp
 	* Create/Upload offer of free services, goods (including photos)
@@ -141,7 +141,7 @@ Phase II: (going public)
 
  * Add most basic features for **"Danke"**, the RefugeeApp 
  * Add most basic features for **"Gerne"**, the HelpersApp 
- * Add most basic features for **"BitteSchön"**, the ReST Web Service Backend
+ * Add most basic features for **"BitteSehr"**, the ReST Web Service Backend
  * Deploment of Backend
  * Add real world data into the backend
  * Deployment of **"Danke"**, the RefugeeApp into Apple/Google App Stores
