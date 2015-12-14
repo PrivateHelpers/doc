@@ -6,7 +6,8 @@ T(<language>) Tags: e.g.: help, police, injuries
 -
 Q(D): Was mache ich im medizinischen Notfall?
 A(D): Ich rufe die Rettung, einen Arzt, das Spital!
+
 Q(E): What should I do in case of emergency?
-Q(E): Call the ambulance, the doctor, the hostpital!
+A(E): Call the ambulance, the doctor, the hostpital!
 -
 
