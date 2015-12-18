@@ -47,9 +47,9 @@ A friendly name for two apps and the backend:
 * **GERNE**: *Gerne* helfe ich mit! *Gerne* unterstüzte ich Menschen in Not! *Gerne* überlasse jemandem ich Nützliches und Nötiges. 
 
 	(= You are welcome: I like to support you) 
-* **BITTESEHR**: Hier sind die infos *bitte schön*!
+* **BITTESEHR**: Hier sind die infos *bitte sehr*!
 
-	(= Here are you: I like to serve with infos!)
+	(= Here are you: I like to serve with infos! It's a pleasure to me.)
 
 	We came up with the names after short brainstorming for a *german*, *unique* word without umlauts, easy to remember, easy to find in stores and not hold by any company. Suggestions better names for the final deployed apps in the stores are welcome!
 
