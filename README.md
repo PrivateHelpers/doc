@@ -13,12 +13,13 @@ The main overall idea is not only to help people forced to leave their country i
 The aims:
 
 * Support for refugees.
-* support for private helpers, private initiatives.
+* Support for private helpers, private initiatives.
 
 The Target-groups:
 	
 * Refugees new to Austria.
 * Refugees already for a longer time in Austria.
+* Private Helpers, who support refugees.
 	
 Personas:
 
@@ -26,16 +27,29 @@ Personas:
 
 * Maria, an Afghan women, had to leave home without her family, afer ... 
 
+* Gerda from Unterpremstätten, who met refugees at the border for the first time and decided to collect toys for the children and offer two hours of German training every other week.
+
 Stories/UseCases:
 
-* Peter is searching for German Courses to learn the language basics of German.
-* Maria, who stays in private homes in Mureck, needs transportation to Graz, for visiting a Caritas help to help with translations for other refugees.
+* Peter is searching for German Courses to learn the language basics of German. Last time it was very difficult for him to make his pain in the neck clear to the doctor and to get the proper medicine in the pharmacy afterwareds. For his children a few links to recommended Learning-German-Apps would be helpful. 
+* Maria, who stays in private homes in Mureck, needs transportation to Graz, for visiting a Caritas center to help with translations for other refugees.
+* Angela is confused and overwhelmed by the different online information channels on facebook, twitter and Google search results. She needs someone to trust and reliable information about the possibilities to find first a German course and then maybe a way to find work.
+* August wants to buy fresh food, but needs translation of the ingrediences as he does not eat meat.
+* Stefan just wants to know how to "waste time", because he is not allowed to work. He is searching for others to play (a soccer game) together.
+
+* Gerda is a buddy of a refugee. She wants to make clear to her, how the disposal of waste is handled in Austria and where the cheapest stores for buying food are nearby.  
 
 A friendly name for two apps and the backend:
 
 * **DANKE**: *Danke* für die Zeit! *Danke* für das Geschenk! *Danke* für den Tipp!
+  
+  (= Thank you for spending time, goods and information) 
 * **GERNE**: *Gerne* helfe ich mit! *Gerne* unterstüzte ich Menschen in Not! *Gerne* überlasse jemandem ich Nützliches und Nötiges. 
+
+	(= You are welcome: I like to support you) 
 * **BITTESEHR**: Hier sind die infos *bitte schön*!
+
+	(= Here are you: I like to serve with infos)
 
 	We came up with the names after short brainstorming for a *german*, *unique* word without umlauts, easy to remember, easy to find in stores and not hold by any company. Suggestions better names for the final deployed apps in the stores are welcome!
 
@@ -48,11 +62,11 @@ Features (Basic):
 	* Send feedback to the developers (for bugs, improvements, suggestions)
 	* Auto-Update of data
 * Danke RefugeeApp
-	* Select language
+	* Select language <= German, English, Arabic, Farsi
 	* Find information (see Demo-Data) 
 		* with links, email, tel to contact the service points
-		* by categories
-		* sorted  
+		* by categories (color-coded categories)
+		* sorted by a-z, most-used, last-update
 	* Search (fulltext) in multiple languages
 	* Share information with others (Facebook, Twiter, eMail)
 	* Send feedback to the developers (for bugs, improvements, suggestions)
@@ -73,30 +87,29 @@ Features (Advanced):
 
 Features (Wishlist):
 	
-* Live Translations
-* Routing
+* Live Translations e.g. What are those ingrediens listed on the meal I want to buy?
+* Routing e.g. How to get to Bruck/Mur?
+* Help Wizzard e.g. Step by step Question and Answer Dialog!
+* Success Stories e.g. How I managed to get my diploma accredited?
 
-	
-Demo Data:
- 	Contacts (including image, tel. email, links)
 
 ## Information (in multiple languages)
 The collection (and later the update) of reliable information is crutial. To make data searchable some meta data is helpful for full text search and search by tags and categories.
 
 * Data for Info-Blocks
-	* Title
-	* Description
-	* Image(s)
-	* Tags
+	* **Title** <= Short and meaningful
+	* **Description** <= optional in html to include links
+	* **Image** and icon <= friendly and supportive (sequence of) images for people having trouble with the language 
+	* **Tags** <= for fast searching
 	* Contact(s)
-		* Name (of organisation or person)
-		* tel, email, address (zip, city, street)
-		* routing-info (GPS)
-		* url
-		* opening hours
-	* See also
-	* Last update (of information)
-	* Hints, Notes, Annotations
+		* **Name** of organisation or person
+		* **tel**, **email**, address  incuding street, zipcode, city
+		* routing-info (**GPS**)
+		* **url** <= link to the homepage
+		* opening **hours**
+	* **See also**
+	* Last **update** of this information chunk
+	* Hints, **Notes**, Annotations
 
 * Data for goods and services offered
 	* Title
